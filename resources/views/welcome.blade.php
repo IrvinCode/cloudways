@@ -79,8 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    LeHuEducation<br>
-                    Aprende ahora!
+                    LeHuEducation
                 </div>
             </div>
         </div>
